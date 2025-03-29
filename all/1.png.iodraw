@@ -13,10 +13,10 @@
         <mxCell id="GFEVWjxyyRVPLtUKxogV-3" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Java API框架&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="430" y="300" width="740" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="GFEVWjxyyRVPLtUKxogV-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;verticalAlign=top;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="GFEVWjxyyRVPLtUKxogV-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;verticalAlign=top;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="430" y="540" width="420" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="GFEVWjxyyRVPLtUKxogV-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=宋体;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="GFEVWjxyyRVPLtUKxogV-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=宋体;verticalAlign=top;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="870" y="540" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-6" value="硬件抽象层（HAL）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;verticalAlign=top;fontSize=28;" vertex="1" parent="1">
