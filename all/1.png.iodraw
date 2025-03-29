@@ -11,7 +11,7 @@
           <mxGeometry x="430" y="120" width="740" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-3" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Java API框架&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=宋体;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="430" y="300" width="740" height="220" as="geometry" />
+          <mxGeometry x="430" y="250" width="740" height="220" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-4" value="原生C/C++库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=宋体;verticalAlign=top;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="430" y="540" width="420" height="200" as="geometry" />
@@ -41,34 +41,34 @@
           <mxGeometry x="1024" y="170" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-13" value="视图系统" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B7C3D4;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="440" y="435" width="200" height="75" as="geometry" />
+          <mxGeometry x="440" y="385" width="200" height="75" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-15" value="管理器" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B7C3D4;strokeColor=#6c8ebf;verticalAlign=top;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="650" y="350" width="510" height="160" as="geometry" />
+          <mxGeometry x="650" y="300" width="510" height="160" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-16" value="内容提供者" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B7C3D4;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="440" y="350" width="200" height="75" as="geometry" />
+          <mxGeometry x="440" y="300" width="200" height="75" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-17" value="位置" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#9AA4B3;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="785" y="390" width="115" height="50" as="geometry" />
+          <mxGeometry x="785" y="340" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-18" value="活动" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#9AA4B3;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="660" y="390" width="115" height="50" as="geometry" />
+          <mxGeometry x="660" y="340" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-19" value="包" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#9AA4B3;strokeColor=#6c8ebf;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="910" y="390" width="115" height="50" as="geometry" />
+          <mxGeometry x="910" y="340" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-20" value="资源" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#9AA4B3;strokeColor=#6c8ebf;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="722" y="447.5" width="115" height="50" as="geometry" />
+          <mxGeometry x="722" y="397.5" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-21" value="通知" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#9AA4B3;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="390" width="115" height="50" as="geometry" />
+          <mxGeometry x="1035" y="340" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-23" value="窗口" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#9AA4B3;strokeColor=#6c8ebf;fontSize=20;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="972.5" y="447.5" width="115" height="50" as="geometry" />
+          <mxGeometry x="972.5" y="397.5" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-24" value="电话" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#9AA4B3;strokeColor=#6c8ebf;fontFamily=宋体;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="847.5" y="447.5" width="115" height="50" as="geometry" />
+          <mxGeometry x="847.5" y="397.5" width="115" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-25" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;音频&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#D4B0AE;strokeColor=#b85450;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="810" width="136" height="100" as="geometry" />
