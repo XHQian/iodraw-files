@@ -110,10 +110,10 @@
           <mxGeometry x="713.3" y="662.5" width="126.7" height="65" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-39" value="原生C/C++库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D4C1;strokeColor=#82b366;fontFamily=宋体;verticalAlign=top;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="450" y="595" width="126.7" height="65" as="geometry" />
+          <mxGeometry x="1033.3" y="585" width="126.7" height="65" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-40" value="原生C/C++库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D4C1;strokeColor=#82b366;fontFamily=宋体;verticalAlign=top;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="450" y="672.5" width="126.7" height="65" as="geometry" />
+          <mxGeometry x="1033.3" y="662.5" width="126.7" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
