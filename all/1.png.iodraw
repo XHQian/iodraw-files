@@ -20,7 +20,7 @@
           <mxGeometry x="870" y="480" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-6" value="硬件抽象层（HAL）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;verticalAlign=top;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="430" y="691" width="740" height="120" as="geometry" />
+          <mxGeometry x="430" y="690" width="740" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-7" value="Linux内核" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=宋体;verticalAlign=top;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="430" y="830" width="740" height="390" as="geometry" />
