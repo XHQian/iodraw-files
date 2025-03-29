@@ -94,7 +94,7 @@
         <mxCell id="GFEVWjxyyRVPLtUKxogV-33" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Webkit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D4C1;strokeColor=#82b366;fontFamily=宋体;verticalAlign=middle;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="440" y="585" width="126.7" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="GFEVWjxyyRVPLtUKxogV-34" value="原生C/C++库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D4C1;strokeColor=#82b366;fontFamily=宋体;verticalAlign=middle;fontSize=28;" vertex="1" parent="1">
+        <mxCell id="GFEVWjxyyRVPLtUKxogV-34" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;OpenMax AL&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D4C1;strokeColor=#82b366;fontFamily=宋体;verticalAlign=middle;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="576.65" y="585" width="126.7" height="65" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-35" value="原生C/C++库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D4C1;strokeColor=#82b366;fontFamily=宋体;verticalAlign=middle;fontSize=28;" vertex="1" parent="1">
