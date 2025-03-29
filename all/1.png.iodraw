@@ -20,7 +20,7 @@
           <mxGeometry x="870" y="485" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-6" value="硬件抽象层（HAL）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontFamily=宋体;verticalAlign=top;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="430" y="700" width="740" height="160" as="geometry" />
+          <mxGeometry x="430" y="700" width="740" height="110" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-7" value="Linux内核" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=宋体;verticalAlign=top;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="430" y="940" width="740" height="410" as="geometry" />
@@ -74,16 +74,16 @@
           <mxGeometry x="440" y="750" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-26" value="蓝牙" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#D4B0AE;strokeColor=#b85450;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="586" y="750" width="136" height="100" as="geometry" />
+          <mxGeometry x="586" y="750" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-27" value="传感器" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#D4B0AE;strokeColor=#b85450;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="732" y="750" width="136" height="100" as="geometry" />
+          <mxGeometry x="732" y="750" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-28" value="相机" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#D4B0AE;strokeColor=#b85450;fontSize=24;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="878" y="750" width="136" height="100" as="geometry" />
+          <mxGeometry x="878" y="750" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-29" value="……" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#D4B0AE;strokeColor=#b85450;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1024" y="750" width="136" height="100" as="geometry" />
+          <mxGeometry x="1024" y="750" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-30" value="驱动程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CEC3D4;strokeColor=#9673a6;fontFamily=宋体;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="440" y="990" width="720" height="270" as="geometry" />
