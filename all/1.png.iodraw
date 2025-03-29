@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GFEVWjxyyRVPLtUKxogV-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Android系统&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="400" y="70" width="800" height="1250" as="geometry" />
+          <mxGeometry x="400" y="70" width="800" height="1300" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-2" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;系统应用&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=宋体;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="430" y="120" width="740" height="160" as="geometry" />
