@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GFEVWjxyyRVPLtUKxogV-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 36px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Android系统&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontFamily=宋体;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="400" y="70" width="800" height="1300" as="geometry" />
+          <mxGeometry x="400" y="70" width="800" height="1190" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-2" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;系统应用&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=宋体;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="430" y="120" width="740" height="120" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="430" y="700" width="740" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-7" value="Linux内核" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=宋体;verticalAlign=top;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="430" y="830" width="740" height="520" as="geometry" />
+          <mxGeometry x="430" y="830" width="740" height="420" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-8" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;短信&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#D4C9A9;strokeColor=#d6b656;fontFamily=宋体;" vertex="1" parent="1">
           <mxGeometry x="440" y="170" width="136" height="60" as="geometry" />
@@ -86,10 +86,10 @@
           <mxGeometry x="1024" y="750" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-30" value="驱动程序" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CEC3D4;strokeColor=#9673a6;fontFamily=宋体;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="440" y="880" width="720" height="380" as="geometry" />
+          <mxGeometry x="440" y="880" width="720" height="280" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-32" value="电源管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CEC3D4;strokeColor=#9673a6;fontFamily=宋体;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1270" width="720" height="70" as="geometry" />
+          <mxGeometry x="440" y="1169" width="720" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GFEVWjxyyRVPLtUKxogV-33" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Webkit&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C2D4C1;strokeColor=#82b366;fontFamily=宋体;verticalAlign=middle;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="440" y="530" width="126.7" height="65" as="geometry" />
