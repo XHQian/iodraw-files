@@ -29,7 +29,7 @@
         <mxCell id="idXnXmSOzxbpWg2rBiye-6" value="返回未碰撞" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="idXnXmSOzxbpWg2rBiye-7" value="检查下一个方块" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="idXnXmSOzxbpWg2rBiye-7" value="检查下一个&lt;div&gt;格子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="160" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="idXnXmSOzxbpWg2rBiye-8" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="idXnXmSOzxbpWg2rBiye-16" target="idXnXmSOzxbpWg2rBiye-13">
