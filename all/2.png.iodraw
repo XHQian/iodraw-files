@@ -39,9 +39,9 @@
             <mxPoint x="220" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tscuTJ6LAST3BGJ9SeoE-2" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tscuTJ6LAST3BGJ9SeoE-1">
+        <mxCell id="tscuTJ6LAST3BGJ9SeoE-2" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tscuTJ6LAST3BGJ9SeoE-1">
           <mxGeometry x="0.6067" y="2" relative="1" as="geometry">
-            <mxPoint x="-22" y="2" as="offset" />
+            <mxPoint x="-22" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tscuTJ6LAST3BGJ9SeoE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tscuTJ6LAST3BGJ9SeoE-0" target="WIyWlLk6GJQsqaUBKTNV-12">
