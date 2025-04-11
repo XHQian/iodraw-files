@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tscuTJ6LAST3BGJ9SeoE-0" value="水平位移后&lt;div&gt;可行?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="410" width="100" height="80" as="geometry" />
+          <mxGeometry x="170" y="340" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
